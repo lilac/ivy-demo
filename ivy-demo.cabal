@@ -1,10 +1,10 @@
-Name:                snap-hello
+Name:                ivy-demo
 Version:             0.1
 Synopsis:            Project Synopsis Here
 Description:         Project Description Here
 License:             AllRightsReserved
 Author:              Author
-Maintainer:          maintainer@example.com
+Maintainer:          cnJamesDeng@gmail.com
 Stability:           Experimental
 Category:            Web
 Build-type:          Simple
@@ -14,7 +14,7 @@ Flag development
   Description: Whether to build the server in development (interpreted) mode
   Default: False
 
-Executable snap-hello
+Executable ivy-demo
   hs-source-dirs: src
   main-is: Main.hs
 
